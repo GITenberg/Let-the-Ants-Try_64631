@@ -1,0 +1,37 @@
+_repo: Let-the-Ants-Try_64631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederick
+    - Pohl, Frederik George, Jr.
+    - MacCreigh, James
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Frederik_Pohl
+    - http://www.gutenberg.org/ebooks/author/46565
+description: ''
+gutenberg_issued: '2021-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Detroit (Mich.) -- Fiction'
+- !lcsh 'Post-apocalyptic fiction'
+- !lcsh 'Inventions -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Let the Ants Try
+url: http://www.gutenberg.org/ebooks/64631
